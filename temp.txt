@@ -1,1 +1,1 @@
-hello from moin
+hello from mointesting diff command 
